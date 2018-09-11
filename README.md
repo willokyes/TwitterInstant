@@ -1,4 +1,4 @@
 # TwitterInstant
 
 
-[!image](https://github.com/willokyes/TwitterInstant/blob/master/Trump.png)
+![image](https://github.com/willokyes/TwitterInstant/blob/master/Trump.png)
